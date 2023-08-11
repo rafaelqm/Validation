@@ -10,13 +10,13 @@
         }
     ],
     "require": {
-        "illuminate/support": "^9.0",
+        "illuminate/support": "^9.0|^10.0",
         "respect/validation": "^1.1"
     },
     "require-dev": {
-        "laravel/framework": "^9.0",
+        "laravel/framework": "^9.0|^10.0",
         "orchestra/testbench": "^7.0",
-        "phpunit/phpunit": "^8.5|^9.0|^9.5",
+        "phpunit/phpunit": "^8.5|^9.0|^9.5|^10.0",
         "friendsofphp/php-cs-fixer": "^2.15"
     },
     "autoload": {
